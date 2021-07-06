@@ -1,28 +1,28 @@
-h1{
-  font-family: 'Noto Sans JP', sans-serif;
+h1 {
+  font-family: "Noto Sans JP", sans-serif;
   font-size: 60px;
-  color:#606060;
+  color: #606060;
 }
-.first-para{
+.first-para {
   font-size: 30px;
   color: gray;
 }
-.first-section{
+.first-section {
   display: flex;
   margin-bottom: 100px;
 }
-.first-sec-div{
+.first-sec-div {
   width: 50%;
   margin-left: 6%;
 }
-.first-sec-div img{
+.first-sec-div img {
   width: 100%;
 }
-.skyblue{
+.skyblue {
   color: #45b3e0;
 }
-.link{
-  font-size:35px;
+.link {
+  font-size: 35px;
   color: white;
   background-image: linear-gradient(rgb(13, 126, 231), aqua);
   padding: 10px 20px;
@@ -30,41 +30,56 @@ h1{
   border-radius: 50px;
 }
 
-
-.second-section{
+.second-section {
   display: flex;
   margin-bottom: 100px;
   background-image: url(images/frame.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
 }
-.second-sec-div{
+.second-sec-div {
   width: 50%;
   margin-left: 6%;
 }
-.second-sec-div img{
+.second-sec-div img {
   width: 100%;
 }
-.skyblue{
+.skyblue {
   color: #45b3e0;
 }
-.link{
-  font-size:35px;
+.link {
+  font-size: 35px;
   color: white;
   background-image: linear-gradient(rgb(13, 126, 231), aqua);
   padding: 10px 20px;
   text-decoration: none;
   border-radius: 50px;
 }
-.about-heading{
+.about-heading {
   font-size: 50px;
 }
-p{
+p {
   font-size: 25px;
 }
-.recipies{
+.recipies {
   text-align: center;
   margin-right: 20%;
   margin-left: 20%;
   margin-bottom: 100px;
+}
+
+.third-section {
+  display: flex;
+  margin-bottom: 100px;
+}
+.third-sec-div {
+  width: 80%;
+  text-align: justify;
+  margin-left: 2%;
+  margin-right: 2%;
+  box-shadow: 10px 10px 30px gray;
+  padding-top: 300px;
+  padding-left: 2%;
+  padding-right: 2%;
+  border-radius: 40px;
 }
