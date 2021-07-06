@@ -88,3 +88,32 @@ p {
   border-radius: 20px;
 }
 
+
+/*forth section
+h2{
+  font-size: 80px;
+  
+}
+h5{
+  font-size: 20px;
+}
+.follwers-count{
+  width: 100%;
+  text-align: justify;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  box-shadow: 10px 10px 30px gray;
+}
+*/
+
+.footer{
+  text-align: center;
+  background-color: skyblue;
+  padding-top: 20px;
+  padding-bottom: 80px;
+}
+.orange{
+  color: orangered;
+}
