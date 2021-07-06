@@ -3,7 +3,7 @@ h1{
   font-size: 60px;
   color:#606060;
 }
-p{
+.first-para{
   font-size: 30px;
   color: gray;
 }
@@ -55,4 +55,16 @@ p{
   padding: 10px 20px;
   text-decoration: none;
   border-radius: 50px;
+}
+.about-heading{
+  font-size: 50px;
+}
+p{
+  font-size: 25px;
+}
+.recipies{
+  text-align: center;
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-bottom: 100px;
 }
