@@ -1,3 +1,23 @@
+/*navigation bar*/
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #45b3e0;
+  overflow: hidden;
+}
+li{
+  float: left;
+}
+li a{
+  display: block;
+  padding: 20px 20px;
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+}
+
+
 /*first section*/
 h1 {
   font-family: "Noto Sans JP", sans-serif;
@@ -30,6 +50,7 @@ h1 {
   text-decoration: none;
   border-radius: 50px;
 }
+
 
 /*second section*/
 .second-section {
@@ -70,6 +91,7 @@ p {
   margin-bottom: 100px;
 }
 
+
 /*third section*/
 .third-section {
   display: flex;
@@ -91,6 +113,7 @@ p {
   border-radius: 20px;
 }
 
+
 /*forth section
 h2{
   font-size: 80px;
@@ -109,6 +132,7 @@ h5{
   box-shadow: 10px 10px 30px gray;
 }
 */
+
 
 /*footer area*/
 .footer{
