@@ -1,0 +1,58 @@
+h1{
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 60px;
+  color:#606060;
+}
+p{
+  font-size: 30px;
+  color: gray;
+}
+.first-section{
+  display: flex;
+  margin-bottom: 100px;
+}
+.first-sec-div{
+  width: 50%;
+  margin-left: 6%;
+}
+.first-sec-div img{
+  width: 100%;
+}
+.skyblue{
+  color: #45b3e0;
+}
+.link{
+  font-size:35px;
+  color: white;
+  background-image: linear-gradient(rgb(13, 126, 231), aqua);
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 50px;
+}
+
+
+.second-section{
+  display: flex;
+  margin-bottom: 100px;
+  background-image: url(images/frame.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.second-sec-div{
+  width: 50%;
+  margin-left: 6%;
+}
+.second-sec-div img{
+  width: 100%;
+}
+.skyblue{
+  color: #45b3e0;
+}
+.link{
+  font-size:35px;
+  color: white;
+  background-image: linear-gradient(rgb(13, 126, 231), aqua);
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 50px;
+}
